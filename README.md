@@ -19,9 +19,9 @@ XGBoost Regressor
 
 Model Evaluation using:
 
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
+Mean Absolute Error (MAE), 
+Mean Squared Error (MSE), 
+Root Mean Squared Error (RMSE), 
 R² Score
 
 Visualizations for feature importance and performance comparison.
